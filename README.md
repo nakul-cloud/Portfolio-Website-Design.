@@ -1,11 +1,6 @@
+# Nakul Jadhav - Portfolio
 
-  # Portfolio Website Design
+This project is for **personal use only** and is built specifically for my portfolio deployment.
 
-  This is a code bundle for Portfolio Website Design. The original project is available at https://www.figma.com/design/kKYDgWQitfZjWwZOgTtJU6/Portfolio-Website-Design.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+> [!IMPORTANT]
+> This repository is not intended to be cloned, copied, or used by others.
