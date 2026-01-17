@@ -132,6 +132,10 @@ dist-ssr/
 # Custom
 .gemini/
 .env*.local
+.vercel
+.netlify
+.turbo
+.pnpm-debug.log*
 .vscode/
 .idea/
 *.swp
