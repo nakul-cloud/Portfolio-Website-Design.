@@ -39,7 +39,7 @@ const skillCategories = [
     title: 'Cloud & Tools',
     icon: Cloud,
     gradient: 'from-cyan-500 to-blue-500',
-    skills: ['VS Code', 'Git', 'Docker', 'Vercel', 'Railway', 'GitHub']
+    skills: ['VS Code', 'Git', 'AWS', 'Antigravity', 'Jupyter Notebook', 'Vercel', 'GitHub']
   }
 ]
 
